@@ -6,7 +6,7 @@ import java.awt.event.WindowListener;
 import static java.lang.System.exit;
 import javax.swing.*;
 
-public class BoxLayoutex extends Frame implements WindowListener {
+public class BoxLayoutex extends JFrame implements WindowListener {
 
     Button buttons[];
     public BoxLayoutex() 
