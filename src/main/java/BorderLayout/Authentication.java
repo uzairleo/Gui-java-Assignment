@@ -120,7 +120,7 @@ public class Authentication implements ActionListener {
         frame1.add(P1);
         P1.add(register);
         P1.add(cancel);
-        frame1.setSize(600, 300);
+        frame1.setSize(400, 300);
         frame1.setVisible(true);
 
         register.addActionListener(this);
